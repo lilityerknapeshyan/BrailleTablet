@@ -3,6 +3,7 @@ from tkinter import *
 
 class Buttons:
     def __init__(self, root):
+        
         self.root = root
 
         topframe = Frame(root)

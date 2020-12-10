@@ -4,6 +4,7 @@ from DoubleLinkedList import DoubleLinkedList
 from HashMap import HashMap
 
 class Book:
+    
     def __init__(self, text):
         self.text = text
         self.current_page = 0
